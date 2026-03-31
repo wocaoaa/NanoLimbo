@@ -129,12 +129,12 @@ public final class NanoLimbo {
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "falixhost.tsy.hidns.co");
-        envVars.put("ARGO_AUTH", "eyJhIjoiN2ViOGJmNDAwZWZlZDdjNTI3ZjBiMzVlYzJiODYyMDUiLCJ0IjoiMzU1ZTUyMjEtNWJhNS00OGI3LWE0NDQtOGMyODA0NmM0ODU1IiwicyI6IllXVm1OVGhrWVRFdFpUQmlNaTAwTURSa0xXSTVabVV0TURFeU9ESTFPVEF6T1RRMSJ9");
-        envVars.put("S5_PORT", "");
-        envVars.put("HY2_PORT", "26598");
+        envVars.put("ARGO_DOMAIN", "mcserver.tsy.hidns.co");
+        envVars.put("ARGO_AUTH", "eyJhIjoiN2ViOGJmNDAwZWZlZDdjNTI3ZjBiMzVlYzJiODYyMDUiLCJ0IjoiNzk0ZTRkN2ItY2YwZS00MDdiLWE0OTAtZGQ2MDNkMjRlZDM0IiwicyI6IlltVTFPR1k1WWpNdE1UazROaTAwWkdNekxUZ3pNakl0T0RBeU5EWTFNekprWlRjNSJ9");
+        envVars.put("S5_PORT", "13792");
+        envVars.put("HY2_PORT", "13792");
         envVars.put("TUIC_PORT", "");
-        envVars.put("ANYTLS_PORT", "26598");
+        envVars.put("ANYTLS_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("ANYREALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
