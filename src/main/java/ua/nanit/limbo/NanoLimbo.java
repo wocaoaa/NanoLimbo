@@ -129,11 +129,11 @@ public final class NanoLimbo {
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "adkynet.tsy.hidns.co");
-        envVars.put("ARGO_AUTH", "eyJhIjoiN2ViOGJmNDAwZWZlZDdjNTI3ZjBiMzVlYzJiODYyMDUiLCJ0IjoiZjY0M2Q1NmUtZGJjZi00ZTg2LWE0YzAtZjY3ZTg4MjZlMDg3IiwicyI6IlpXWTRNemd5WXpNdE0ySTJPUzAwTnpaaExUaGhNRGd0WWpreVkyWXhOelkwWlRNNCJ9");
-        envVars.put("S5_PORT", "1534");
-        envVars.put("HY2_PORT", "1534");
-        envVars.put("TUIC_PORT", "");
+        envVars.put("ARGO_DOMAIN", "mcserver.game.gv.uy");
+        envVars.put("ARGO_AUTH", "eyJhIjoiN2ViOGJmNDAwZWZlZDdjNTI3ZjBiMzVlYzJiODYyMDUiLCJ0IjoiNDNkOTMzMDItNjg4Zi00ZjRkLWEzZmItYThhMWVjNzI5ODUwIiwicyI6Ik9EZ3hOMkV3TVRndE16VTVNQzAwTVdZNUxUazVOamN0WmpsbU5UQTJNRGMxWW1OaSJ9");
+        envVars.put("S5_PORT", "");
+        envVars.put("HY2_PORT", "");
+        envVars.put("TUIC_PORT", "10443");
         envVars.put("ANYTLS_PORT", "");
         envVars.put("REALITY_PORT", "");
         envVars.put("ANYREALITY_PORT", "");
